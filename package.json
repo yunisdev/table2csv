@@ -1,6 +1,6 @@
 {
   "name": "yunisdev-table2csv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight library to convert HTML table to CSV file",
   "main": "table2csv.min.js",
   "directories": {
